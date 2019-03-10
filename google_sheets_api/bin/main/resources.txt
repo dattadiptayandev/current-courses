@@ -1,0 +1,5 @@
+https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit#gid=0
+
+https://developers.google.com/sheets/api/
+https://developers.google.com/sheets/api/samples/
+https://developers.google.com/sheets/api/quickstart/java
