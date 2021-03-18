@@ -1,0 +1,26 @@
+Resources for Data Structures in Java
+=====================================
+
+Heinz's Java Specialists' Newsletter
+https://www.javaspecialists.eu/archive
+
+Heinz's email:
+heinz@javaspecialists.eu
+
+IntelliJ Wizardry Course Coupon:
+https://javaspecialists.teachable.com/p/intellij-wizardry/?product_id=1655755&coupon_code=SAFARI
+
+(And a top tip. When you enroll, we offer you a 15% discount on our superpack.
+Grab that URL and hold onto it. The Superpack is anyway a great deal, but this
+makes it even better.)
+
+Other Safari Courses by Heinz Kabutz:
+
+Design Patterns in Java: Deep Dive March 18-19
+https://learning.oreilly.com/live-training/courses/design-patterns-in-java-deep-dive/0636920053096
+
+Mastering Threads in Java April 15-16
+https://learning.oreilly.com/live-training/courses/mastering-threads-in-java/0636920053830
+
+Refactoring to Java Streams and Lambdas April 22-23
+https://learning.oreilly.com/live-training/courses/refactoring-to-java-streams-and-lambdas/0636920053858
